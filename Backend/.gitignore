@@ -1,0 +1,4 @@
+venv/
+myenv
+bert_fakejob_model/model.safetensors
+bert_fakejob_model/model.safetensors
